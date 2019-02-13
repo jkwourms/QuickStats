@@ -18,4 +18,4 @@ QuickStats is a web-based NCAA baseball tool used to provide information about t
 12. Final Report & Final Demo
 13. Spring Break - Catch up where needed
 
-![ScreenShot](screenshot.jpg)
+![ScreenShot](Gannt_Chart.jpg)
